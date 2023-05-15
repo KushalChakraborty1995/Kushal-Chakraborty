@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Kushal-Chakraborty&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Kushal-Chakraborty&style=flat-square&color=green" alt=""/>
 
 ## নমস্কার (Namaste)🙏🏻, I'm Kushal Chakraborty
 ## I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
