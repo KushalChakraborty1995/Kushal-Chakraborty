@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Kushal-Chakraborty&style=flat-square&color=green" align="center" alt=""/>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=Kushal-Chakraborty&style=flat-square&color=green" alt=""/>
 
 <h1>
   hey there
