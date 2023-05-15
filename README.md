@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kushal-Chakraborty&style=flat-square&color=green" alt=""/>
 
 <h1>
-  hey there
+  Hello Guys..Welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -26,8 +26,16 @@
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif
 " width="600" height="300"/>
 </div>
+  
+  
+### :man_technologist: About Me :
+  I am a Data science enthusiast with Mathematics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  
+  - :telescope: I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
 
+- :seedling: Combined with my programming skills in Python, SQL, and familiarity with machine learning algorithms, my mathematics background provides a strong foundation for pursuing a successful career as a data analyst or data scientist.
 
-## নমস্কার (Namaste)🙏🏻, I'm Kushal Chakraborty
-## I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
-## Combined with my programming skills in Python, SQL, and familiarity with machine learning algorithms, my mathematics background provides a strong foundation for pursuing a successful career as a data analyst or data scientist. I am constantly seeking to expand my knowledge and skills in both mathematics and data science to stay at the forefront of the field.
+- :zap: In my free time, I solve problems on Hackkerank and read tech articles.
+
+- :mailbox:You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kushchakraborty/)
+
