@@ -1,5 +1,5 @@
 # Kushal-Chakraborty
-![image](https://github.com/KushalChakraborty1995/Kushal-Chakraborty/assets/114491920/c066f310-ec3e-4ac7-887f-72ae0eaa0629)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
