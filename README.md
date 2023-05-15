@@ -29,15 +29,15 @@
   
   
 ### :man_technologist: About Me :
-  I am a Data science enthusiast with Mathematics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  ##I am a Data science enthusiast with Mathematics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
-  - :telescope: I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
+  - :telescope: ##I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
 
-- :seedling: Combined with my programming skills in Python, SQL, and familiarity with machine learning algorithms, my mathematics background provides a strong foundation for pursuing a successful career as a data analyst or data scientist.
+- :seedling: ##Combined with my programming skills in Python, SQL, and familiarity with machine learning algorithms, my mathematics background provides a strong foundation for pursuing a successful career as a data analyst or data scientist.
 
-- :zap: In my free time, I solve problems on Hackkerank and read tech articles.
+- :zap: ##In my free time, I solve problems on Hackkerank and read tech articles.
 
-- :mailbox:You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kushchakraborty/)
+- :mailbox: ##You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kushchakraborty/)
   
   ---
 
@@ -71,9 +71,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-Chakraborty&layout=compact&theme=vision-friendly-dark)]
   
-  ---
 
-### :writing_hand: Blog Posts :
-  
-  https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username='Kushal Chakraborty'
+
+
   
