@@ -71,3 +71,9 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-Chakraborty&layout=compact&theme=vision-friendly-dark)]
   
+  ---
+
+### :writing_hand: Blog Posts :
+  
+  https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username='Kushal Chakraborty'
+  
